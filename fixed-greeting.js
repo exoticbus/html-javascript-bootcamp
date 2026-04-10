@@ -8,7 +8,7 @@ function showGreeting() {
   if (name == "") {
     output.innerHTML = "Please enter your name";
   } else {
-    output.innerHTML = "Hello, " + name + "!";
+    output.innerHTML = "Hi, " + name + "!";
   }
 }
 
